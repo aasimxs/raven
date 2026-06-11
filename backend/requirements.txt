@@ -1,0 +1,9 @@
+Flask==3.0.3
+Flask-CORS==4.0.1
+sqlalchemy==1.4.52
+typer==0.9.0
+pydantic==1.10.13
+rich==13.7.1
+aiofiles==23.2.1
+aiohttp==3.9.5
+phonenumbers==8.13.39
