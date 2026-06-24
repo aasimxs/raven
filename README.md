@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="frontend/src/app/icon.svg" alt="Raven Logo" width="120"/>
+  <img src="frontend/src/app/icon.png" alt="Raven Logo" width="120"/>
   <h1>Raven</h1>
   <p><strong>Advanced Open Source Intelligence Framework</strong></p>
 </div>
